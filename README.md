@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakan8252&label=Profile%20views&color=0e75b6&style=flat" alt="hakan8252" /> </p>
 
-- 🌱 I’m currently learning **Machine learning & AI, React Native**
+- 🌱 I’m currently learning **Machine learning & AI**
 
 - 📫 How to reach me **hakanyucet@gmail.com**
 
